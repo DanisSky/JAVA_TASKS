@@ -1,6 +1,8 @@
+D:\Simple Web App\src\main\java\ru\itis\servlets\SignInServlet.java
 D:\Simple Web App\src\main\java\ru\itis\models\User.java
 D:\Simple Web App\src\main\java\ru\itis\repositories\CrudRepository.java
 D:\Simple Web App\src\main\java\ru\itis\servlets\ProfileServlet.java
 D:\Simple Web App\src\main\java\ru\itis\servlets\UsersServlet.java
 D:\Simple Web App\src\main\java\ru\itis\repositories\UsersRepositoryJdbcImpl.java
+D:\Simple Web App\src\main\java\ru\itis\repositories\CookiesRepository.java
 D:\Simple Web App\src\main\java\ru\itis\repositories\UsersRepository.java

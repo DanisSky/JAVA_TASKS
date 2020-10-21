@@ -2,6 +2,8 @@ ru\itis\models\User.class
 ru\itis\servlets\ProfileServlet.class
 ru\itis\repositories\UsersRepository.class
 ru\itis\repositories\UsersRepositoryJdbcImpl.class
+ru\itis\repositories\CookiesRepository.class
 ru\itis\servlets\UsersServlet.class
 ru\itis\models\User$UserBuilder.class
+ru\itis\servlets\SignInServlet.class
 ru\itis\repositories\CrudRepository.class
